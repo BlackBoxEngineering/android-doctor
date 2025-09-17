@@ -1,0 +1,3 @@
+# Nokia G11 Scatter File Template
+# This file defines partition layout for flashing
+# Download actual scatter file with firmware

@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Logs
+logs/*.log
+*.log
+
+# Firmware files (too large for git)
+firmware/**/*.img
+firmware/**/*.bin
+firmware/**/*.zip
+firmware/**/*.tar.gz
+
+# Tools (downloaded separately)
+tools/SP_Flash_Tool/**/*
+tools/MTK_Drivers/**/*.exe
+tools/MTK_Drivers/**/*.msi
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+~*

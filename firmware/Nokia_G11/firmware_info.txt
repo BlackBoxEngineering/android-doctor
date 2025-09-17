@@ -1,0 +1,11 @@
+Nokia G11 Stock Firmware Sources:
+1. https://www.getdroidtips.com/nokia-g11-stock-firmware/
+2. https://nokiafirmware.com/
+3. https://www.androidfilehost.com/
+
+Required files:
+- scatter.txt (partition layout)
+- boot.img
+- system.img
+- recovery.img
+- userdata.img
